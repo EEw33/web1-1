@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: orange;
+    margin: 0;
+    font-size: 16px;
+}
+
+.header {
+    background-color: #d9edf7;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid #2c7fb8;
+    text-align: center;
+}
+
+.main {
+    background-color: #f2dede;
+    padding: 30px;
+    margin: 15px 20px;
+    border: 3px solid #b56576;
+    min-height: 200px;
+    overflow: hidden;
+}
+
+.float-left {
+    float: left;
+    background-color: #d9edf7;
+    border: 2px solid #2c7fb8;
+    padding: 10px;
+}
+
+.float-right {
+    float: right;
+    background-color: #fff3cd;
+    border: 2px solid #ffca2c;
+    padding: 10px;
+}
+
+.footer {
+    background-color: #dff0d8;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid green;
+    text-align: center;
+    clear: both;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-style: italic;
+    color: darkblue;
+    font-size: 1.2em;
+}
+
+.highlight {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+
+#main-heading {
+    color: purple;
+    text-decoration: underline;
+}
+
+p {
+    color: green;
+    font-size: 1rem;
+}
+
+li {
+    color: brown;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border: 2px solid black;
+}
+
+nav-box {
+    display: block;
+}
+
