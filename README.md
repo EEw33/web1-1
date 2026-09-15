@@ -32,8 +32,6 @@ I created a simple website with the following pages:
 
 ![Profile page preview](photo/nrrsh1_1761495920_3752022182688750567_8478368492.heic)
 
-> The project includes a profile image and various styled sections to make the pages more visually appealing.
-
 ## 5. Final Reflection
 
 This assignment helped me understand the basic structure of a website and how HTML and CSS work together to create a clean user interface. I learned how to organize content, create navigation links, format tables, and use simple styling techniques to improve page presentation. Overall, the project was a useful introduction to front-end web development and gave me confidence in building more complex pages in the future.
