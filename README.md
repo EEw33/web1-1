@@ -35,7 +35,3 @@ I created a simple website with the following pages:
 ## 5. Final Reflection
 
 This assignment helped me understand the basic structure of a website and how HTML and CSS work together to create a clean user interface. I learned how to organize content, create navigation links, format tables, and use simple styling techniques to improve page presentation. Overall, the project was a useful introduction to front-end web development and gave me confidence in building more complex pages in the future.
-
-## 6. Conclusion
-
-The completed website successfully meets the assignment requirements and demonstrates the key web design concepts learned during the course. It is a simple but functional project that shows the foundation of HTML and CSS development.
