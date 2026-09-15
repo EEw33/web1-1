@@ -22,15 +22,23 @@ I created a simple website with the following pages:
 4. Applied CSS styling to improve the page design and layout.
 5. Reviewed each page for consistency, readability, and navigation flow.
 
-## 4. Used pictures
+## 4. Screenshots
 
-### Main page
+### Screenshot 1
 
-![Main page preview](photo/favicon.png)
+![Screenshot1](photo/screenshot1.png)
 
-### Profile page
+### Screenshot 2
 
-![Profile page preview](photo/nrrsh1_1761495920_3752022182688750567_8478368492.heic)
+![Screenshot2](photo/screenshot2.png)
+
+### Screenshot 3
+
+![Screenshot3](photo/screenshot3.png)
+
+### Screenshot 4
+
+![Screenshot4](photo/screenshot4.png)
 
 ## 5. Final Reflection
 
