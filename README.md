@@ -22,7 +22,7 @@ I created a simple website with the following pages:
 4. Applied CSS styling to improve the page design and layout.
 5. Reviewed each page for consistency, readability, and navigation flow.
 
-## 4. Screenshots of the Webpage
+## 4. Used pictures
 
 ### Main page
 
